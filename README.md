@@ -1,2 +1,3 @@
 # Enkadia-Clock
-Helper class to make simplify adding clock functions to Synexsis applications
+Helper class to simplify adding clock functions to Synexsis applications.
+  Includes startup and shutdown methods
