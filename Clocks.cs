@@ -37,7 +37,7 @@ namespace Enkadia.Helpers.Clocks
         }
 
         /// <summary>
-        /// Start a clock to shutdown at a given time  (hh:mm AM/PM)
+        /// Initialize a clock to shutdown at a given time  (hh:mm AM/PM)
         /// </summary>
         /// <param name="ShutdownTime">When would you like the system to shutdown?</param>
         public Clock(string ShutdownTime)
